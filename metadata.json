@@ -1,0 +1,8 @@
+{
+  "name": "Wi-Fi Password Finder",
+  "description": "A fun application that uses AI to generate a plausible password for any given Wi-Fi network name. For entertainment purposes only.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
